@@ -1,0 +1,28 @@
+{
+  "name": "ft-next-component-flag-gate",
+  "version": "0.0.0",
+  "description": "Interface for applying feature flags to features contained within components",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Financial-Times/next-component-flag-gate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Financial-Times/next-component-flag-gate/issues"
+  },
+  "homepage": "https://github.com/Financial-Times/next-component-flag-gate",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "mocha": "^2.1.0",
+    "next-feature-flags-client": "https://github.com/Financial-Times/next-feature-flags-client/archive/v5.0.0.tar.gz",
+    "sinon": "^1.12.2"
+  }
+}

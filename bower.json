@@ -1,0 +1,18 @@
+{
+  "name": "next-component-flag-gate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Financial-Times/next-component-flag-gate",
+  "authors": [
+    "Rhys Evans <rhys.evans@ft.com>"
+  ],
+  "description": "Interface for applying feature flags to features contained within components",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,7 +1,7 @@
 module.exports = {
 
     topicCard: {
-        isFollowable: {on: ['userPreferences', 'following')]}
+        isFollowable: {on: ['userPreferences', 'following']}
     },
 
     stream: {
