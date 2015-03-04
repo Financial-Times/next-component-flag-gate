@@ -14,6 +14,10 @@ But taking flags out of components, and replacing them with config options, woul
 
 This module aims to provide a single place to define how flags should affect components, with a clear, easy to override interface available on both client and server side
 
+### Reservations
+
+ - passing config from a parent component to its dependencies - could it be problematic?
+ - could all this get really complicated in ways I haven't thought of? What are the use cases?
 
 ## Usage
 
